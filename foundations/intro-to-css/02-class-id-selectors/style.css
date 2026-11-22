@@ -1,11 +1,11 @@
 /* Add CSS Styling */
-p {
-    background-color: pink;
+.odd {
+    background-color: #ff7777;
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
 #num2 {
-    color: blue;
+    color: rgb(0, 0, 255);
     font-size: 36px;
 }
 
@@ -14,7 +14,7 @@ p {
 }
 
 #num4 {
-    background-color: lightgreen;
+    background-color: hsl(120, 73%, 75%);
     font-size: 24px;
     font-weight: bold;
 }
